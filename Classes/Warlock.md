@@ -57,7 +57,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | -                               | 4              | 14           | 4           | 5th        | 8                 |
 | 19th  | +6                | Ability Score Improvement       | 4              | 15           | 4           | 5th        | 8                 |
 | 20th  | +6                | Eldritch Master                 | 4              | 15           | 4           | 5th        | 8                 |
-|       |                   |                                 |                |              |             |            |                   |
 
 ### Otherworldly Patron
 

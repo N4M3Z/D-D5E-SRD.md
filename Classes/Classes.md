@@ -5,7 +5,7 @@
 - [[Druid]]
 - [[Fighter]]
 - [[Monk]]
-- [[Resources/D&D 5E SRD/Classes/Paladin]]
+- [[Paladin]]
 - [[Ranger]]
 - [[Rogue]]
 - [[Sorcerer]]

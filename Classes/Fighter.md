@@ -57,7 +57,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | Martial Archetype Feature                         |
 | 19th  | +6                | Ability Score Improvement                         |
 | 20th  | +6                | Extra Attack (3)                                  |
-|       |                   |                                                   |
 
 ### Fighting Style
 

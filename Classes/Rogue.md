@@ -57,7 +57,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | 9d6          | Elusive                                |
 | 19th  | +6                | 10d6         | Ability Score Improvement              |
 | 20th  | +6                | 10d6         | Stroke of Luck                         |
-|       |                   |              |                                        |
 
 ### Expertise
 

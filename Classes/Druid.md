@@ -56,7 +56,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | Timeless Body, Beast Spells                       | 4              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | Ability Score Improvement                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | Archdruid                                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-|       |                   |                                                   |                |     |     |     |     |     |     |     |     |     |
 
 ### Druidic
 

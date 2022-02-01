@@ -56,7 +56,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | Indomitable Might             | 6         | +4          |
 | 19th  | +6                | Ability Score Improvement     | 6         | +4          |
 | 20th  | +6                | Primal Champion               | Unlimited | +4          |
-|       |                   |                               |           |             |
 
 ### Rage
 
